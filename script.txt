@@ -54,8 +54,8 @@ CREATE TABLE Detalle_Ventas(
 SELECT * FROM CLIENTES;
 
 INSERT INTO CLIENTES VALUES
-(DEFAULT, 'Carlos', 'Soto', '1-1', 'pasaje 1, macul', 'carlos@gmail.com', '+5691111111'),
-(DEFAULT, 'Pedro', 'Castillo', '2-2', 'pasaje 2, independencia', 'pedro@gmail.com', '+5692222222');
+(DEFAULT, 'juan', 'peres', '1-1', 'calle 21, santiago', 'jorge@gmail.com', '+5691443111'),
+(DEFAULT, 'pato', 'carlos', '2-2', 'calle 42, melipilla', 'jota@gmail.com', '+5696908422');
 
 --CREAR 5 PRODUCTOS
 select * from productos;
